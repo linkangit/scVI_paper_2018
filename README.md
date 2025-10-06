@@ -1,4 +1,4 @@
-# SCVI paper 2018 - Trying to understand the key concepts
+# SCVI Nature Methods paper 2018 - Trying to understand the key concepts
 ## What Problem Are They Solving?
 
 Single-cell RNA sequencing (scRNA-seq) lets scientists measure which genes are active in individual cells. But the data is messy - some measurements are missing, there are technical errors, and different experiments can't be easily compared. Scientists need a way to clean up this data and extract meaningful biological information.
